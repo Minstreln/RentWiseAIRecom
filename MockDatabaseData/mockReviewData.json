@@ -1,0 +1,143 @@
+[
+    {
+      "comment": "Beautiful property with all amenities in great condition.",
+      "rating": 5,
+      "property_id": "67343f14fe1b77313ed2a118",
+      "user_id": "6733c7eee14177bf9370a7a7",
+      "date": "2024-11-01T10:00:00Z"
+    },
+    {
+      "comment": "Good location but some maintenance needed.",
+      "rating": 3,
+      "property_id": "67343f14fe1b77313ed2a119",
+      "user_id": "6733c7eee14177bf9370a7aa",
+      "date": "2024-11-02T10:30:00Z"
+    },
+    {
+      "comment": "Spacious rooms and responsive management.",
+      "rating": 4,
+      "property_id": "67343f14fe1b77313ed2a11a",
+      "user_id": "6733c7eee14177bf9370a7a7",
+      "date": "2024-11-03T11:00:00Z"
+    },
+    {
+      "comment": "Clean and well-kept property, very satisfied.",
+      "rating": 5,
+      "property_id": "67343f14fe1b77313ed2a11b",
+      "user_id": "6733c7eee14177bf9370a7aa",
+      "date": "2024-11-04T11:30:00Z"
+    },
+    {
+      "comment": "Decent property but lacks some amenities.",
+      "rating": 3,
+      "property_id": "67343f14fe1b77313ed2a11c",
+      "user_id": "6733c7eee14177bf9370a7a7",
+      "date": "2024-11-05T12:00:00Z"
+    },
+    {
+      "comment": "Great for families and in a safe area.",
+      "rating": 4,
+      "property_id": "67343f14fe1b77313ed2a118",
+      "user_id": "6733c7eee14177bf9370a7aa",
+      "date": "2024-11-06T12:30:00Z"
+    },
+    {
+      "comment": "Needs improvement in cleaning and upkeep.",
+      "rating": 2,
+      "property_id": "67343f14fe1b77313ed2a119",
+      "user_id": "6733c7eee14177bf9370a7a7",
+      "date": "2024-11-07T13:00:00Z"
+    },
+    {
+      "comment": "Very nice property, good community vibe.",
+      "rating": 5,
+      "property_id": "67343f14fe1b77313ed2a11a",
+      "user_id": "6733c7eee14177bf9370a7aa",
+      "date": "2024-11-08T13:30:00Z"
+    },
+    {
+      "comment": "Average experience, some issues with noise.",
+      "rating": 3,
+      "property_id": "67343f14fe1b77313ed2a11b",
+      "user_id": "6733c7eee14177bf9370a7a7",
+      "date": "2024-11-09T14:00:00Z"
+    },
+    {
+      "comment": "Clean and comfortable property, will recommend.",
+      "rating": 4,
+      "property_id": "67343f14fe1b77313ed2a11c",
+      "user_id": "6733c7eee14177bf9370a7aa",
+      "date": "2024-11-10T14:30:00Z"
+    },
+    {
+      "comment": "Lovely place to stay, spacious rooms.",
+      "rating": 5,
+      "property_id": "67343f14fe1b77313ed2a118",
+      "user_id": "6733c7eee14177bf9370a7a7",
+      "date": "2024-11-11T15:00:00Z"
+    },
+    {
+      "comment": "Property has potential but needs renovations.",
+      "rating": 2,
+      "property_id": "67343f14fe1b77313ed2a119",
+      "user_id": "6733c7eee14177bf9370a7aa",
+      "date": "2024-11-12T15:30:00Z"
+    },
+    {
+      "comment": "Quiet neighborhood and well-kept property.",
+      "rating": 4,
+      "property_id": "67343f14fe1b77313ed2a11a",
+      "user_id": "6733c7eee14177bf9370a7a7",
+      "date": "2024-11-13T16:00:00Z"
+    },
+    {
+      "comment": "Amazing experience, close to amenities.",
+      "rating": 5,
+      "property_id": "67343f14fe1b77313ed2a11b",
+      "user_id": "6733c7eee14177bf9370a7aa",
+      "date": "2024-11-14T16:30:00Z"
+    },
+    {
+      "comment": "Average maintenance, can be better.",
+      "rating": 3,
+      "property_id": "67343f14fe1b77313ed2a11c",
+      "user_id": "6733c7eee14177bf9370a7a7",
+      "date": "2024-11-15T17:00:00Z"
+    },
+    {
+      "comment": "Great landlord, property is in good shape.",
+      "rating": 4,
+      "property_id": "67343f14fe1b77313ed2a118",
+      "user_id": "6733c7eee14177bf9370a7aa",
+      "date": "2024-11-16T17:30:00Z"
+    },
+    {
+      "comment": "Pleasant stay, great property management.",
+      "rating": 5,
+      "property_id": "67343f14fe1b77313ed2a119",
+      "user_id": "6733c7eee14177bf9370a7a7",
+      "date": "2024-11-17T18:00:00Z"
+    },
+    {
+      "comment": "Not as advertised, some maintenance issues.",
+      "rating": 2,
+      "property_id": "67343f14fe1b77313ed2a11a",
+      "user_id": "6733c7eee14177bf9370a7aa",
+      "date": "2024-11-18T18:30:00Z"
+    },
+    {
+      "comment": "Amazing amenities, very comfortable stay.",
+      "rating": 5,
+      "property_id": "67343f14fe1b77313ed2a11b",
+      "user_id": "6733c7eee14177bf9370a7a7",
+      "date": "2024-11-19T19:00:00Z"
+    },
+    {
+      "comment": "Decent property, fair pricing.",
+      "rating": 4,
+      "property_id": "67343f14fe1b77313ed2a11c",
+      "user_id": "6733c7eee14177bf9370a7aa",
+      "date": "2024-11-20T19:30:00Z"
+    }
+]
+  

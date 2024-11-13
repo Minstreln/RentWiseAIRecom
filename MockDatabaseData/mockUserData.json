@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Charlie Brown",
+        "email": "charlie.brown@gmail.com",
+        "household_income": 550000,
+        "role": "Tenant",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T11:10:00.000Z"
+    },
+    {
+        "name": "Diana Prince",
+        "email": "diana.prince@gmail.com",
+        "household_income": 750000,
+        "role": "Landlord",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T11:15:00.000Z"
+    },
+    {
+        "name": "Evan Wright",
+        "email": "evan.wright@gmail.com",
+        "household_income": 600000,
+        "role": "Tenant",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T11:20:00.000Z"
+    },
+    {
+        "name": "Frank Green",
+        "email": "frank.green@gmail.com",
+        "household_income": 900000,
+        "role": "Landlord",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T11:25:00.000Z"
+    },
+    {
+        "name": "Grace Kelly",
+        "email": "grace.kelly@gmail.com",
+        "household_income": 500000,
+        "role": "Agent",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T11:30:00.000Z"
+    },
+    {
+        "name": "Henry Turner",
+        "email": "henry.turner@gmail.com",
+        "household_income": 760000,
+        "role": "Landlord",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T11:35:00.000Z"
+    },
+    {
+        "name": "Isabella Martin",
+        "email": "isabella.martin@gmail.com",
+        "household_income": 620000,
+        "role": "Agent",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T11:40:00.000Z"
+    },
+    {
+        "name": "Jack Lee",
+        "email": "jack.lee@gmail.com",
+        "household_income": 790000,
+        "role": "Landlord",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T11:45:00.000Z"
+    },
+    {
+        "name": "Karen Hall",
+        "email": "karen.hall@gmail.com",
+        "household_income": 540000,
+        "role": "Tenant",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T11:50:00.000Z"
+    },
+    {
+        "name": "Leo Moore",
+        "email": "leo.moore@gmail.com",
+        "household_income": 660000,
+        "role": "Agent",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T11:55:00.000Z"
+    },
+    {
+        "name": "Mary Walker",
+        "email": "mary.walker@gmail.com",
+        "household_income": 880000,
+        "role": "Landlord",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T12:00:00.000Z"
+    },
+    {
+        "name": "Nathan Young",
+        "email": "nathan.young@gmail.com",
+        "household_income": 530000,
+        "role": "Tenant",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T12:05:00.000Z"
+    },
+    {
+        "name": "Olivia King",
+        "email": "olivia.king@gmail.com",
+        "household_income": 910000,
+        "role": "Landlord",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T12:10:00.000Z"
+    },
+    {
+        "name": "Paul Allen",
+        "email": "paul.allen@gmail.com",
+        "household_income": 520000,
+        "role": "Tenant",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T12:15:00.000Z"
+    },
+    {
+        "name": "Quinn Adams",
+        "email": "quinn.adams@gmail.com",
+        "household_income": 730000,
+        "role": "Landlord",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T12:20:00.000Z"
+    },
+    {
+        "name": "Rachel Carter",
+        "email": "rachel.carter@gmail.com",
+        "household_income": 660000,
+        "role": "Agent",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T12:25:00.000Z"
+    },
+    {
+        "name": "Sam Baker",
+        "email": "sam.baker@gmail.com",
+        "household_income": 920000,
+        "role": "Landlord",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T12:30:00.000Z"
+    },
+    {
+        "name": "Tina Diaz",
+        "email": "tina.diaz@gmail.com",
+        "household_income": 480000,
+        "role": "Tenant",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T12:35:00.000Z"
+    },
+    {
+        "name": "Uma Patel",
+        "email": "uma.patel@gmail.com",
+        "household_income": 710000,
+        "role": "Landlord",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T12:40:00.000Z"
+    },
+    {
+        "name": "Vera Scott",
+        "email": "vera.scott@gmail.com",
+        "household_income": 490000,
+        "role": "Tenant",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T12:45:00.000Z"
+    },
+    {
+        "name": "Will Harris",
+        "email": "will.harris@gmail.com",
+        "household_income": 830000,
+        "role": "Agent",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T12:50:00.000Z"
+    },
+    {
+        "name": "Xena Wright",
+        "email": "xena.wright@gmail.com",
+        "household_income": 880000,
+        "role": "Landlord",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T12:55:00.000Z"
+    },
+    {
+        "name": "Yara Cooper",
+        "email": "yara.cooper@gmail.com",
+        "household_income": 620000,
+        "role": "Agent",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T13:00:00.000Z"
+    },
+    {
+        "name": "Zach Torres",
+        "email": "zach.torres@gmail.com",
+        "household_income": 770000,
+        "role": "Landlord",
+        "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+        "createdAt": "2024-11-12T13:05:00.000Z"
+    }
+]

@@ -1,0 +1,70 @@
+{
+  "name": "rentwiseairecom",
+  "version": "1.0.0",
+  "description": "personalized rental property recommendations based on a user's household income.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "start:prod": "NODE_ENV=production nodemon server.js",
+    "debug": "ndb server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minstreln/RentWiseAIRecom.git"
+  },
+  "keywords": [
+    "Rent",
+    "personalized",
+    "recommmendations"
+  ],
+  "author": "Minstrel Nwachukwu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Minstreln/RentWiseAIRecom/issues"
+  },
+  "homepage": "https://github.com/Minstreln/RentWiseAIRecom#readme",
+  "dependencies": {
+    "@babel/polyfill": "^7.12.1",
+    "axios": "^1.7.7",
+    "bcryptjs": "^2.4.3",
+    "compression": "^1.7.5",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "eslint": "^8.57.1",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.10.0",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-jsx-a11y": "^6.10.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.37.2",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "express": "^4.21.1",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^6.11.2",
+    "express-session": "^1.18.1",
+    "express-validator": "^7.2.0",
+    "helmet": "^7.2.0",
+    "hpp": "^0.2.3",
+    "http": "0.0.1-security",
+    "ionicons": "^7.4.0",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.13.22",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.5-lts.1",
+    "ndb": "^1.1.5",
+    "nodemailer": "^6.9.16",
+    "nodemon": "^2.0.22",
+    "prettier": "^2.8.8",
+    "sharp": "^0.32.6",
+    "simple-statistics": "^7.8.7",
+    "slugify": "^1.6.6",
+    "socket.io": "^4.8.1",
+    "uuid": "^9.0.1",
+    "validator": "^13.12.0",
+    "ws": "^8.18.0",
+    "xss-clean": "^0.1.4"
+  }
+}
