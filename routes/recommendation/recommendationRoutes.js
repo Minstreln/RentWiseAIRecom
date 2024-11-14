@@ -4,7 +4,7 @@ const recommendationController = require('../../controllers/recommendation/recom
 
 const Router = express.Router();
 
-// recommendation endpoint
+// recommendation endpoint, full endpoint: api/recommendations
 Router.post('/recommendations',
     userController.protect,
     userController.restrictTo('Tenant'),

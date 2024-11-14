@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "673442e3fe1b77313ed2a138"
+  },
+  "review": "Excellent landlord, very responsive and accommodating.",
+  "landlord": "6733c7eee14177bf9370a7a8",
+  "user": "6733c7eee14177bf9370a7aa",
+  "createdAt": "2024-11-01T10:00:00Z",
+  "updatedAt": "2024-11-01T10:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "673442e3fe1b77313ed2a139"
+  },
+  "review": "The property is well-maintained, and the landlord is easy to reach.",
+  "landlord": "6733c7eee14177bf9370a7a8",
+  "user": "6733c7eee14177bf9370a7a7",
+  "createdAt": "2024-11-02T10:30:00Z",
+  "updatedAt": "2024-11-02T10:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "673442e3fe1b77313ed2a13a"
+  },
+  "review": "Overall positive experience, but sometimes delayed in repairs.",
+  "landlord": "6733c7eee14177bf9370a7a8",
+  "user": "6733c7eee14177bf9370a7aa",
+  "createdAt": "2024-11-03T11:00:00Z",
+  "updatedAt": "2024-11-03T11:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "673442e3fe1b77313ed2a13b"
+  },
+  "review": "Great landlord, very professional and respectful.",
+  "landlord": "6733c7eee14177bf9370a7a8",
+  "user": "6733c7eee14177bf9370a7a7",
+  "createdAt": "2024-11-04T11:30:00Z",
+  "updatedAt": "2024-11-04T11:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "673442e3fe1b77313ed2a13c"
+  },
+  "review": "Property and amenities are well kept, had a smooth experience.",
+  "landlord": "6733c7eee14177bf9370a7a8",
+  "user": "6733c7eee14177bf9370a7aa",
+  "createdAt": "2024-11-05T12:00:00Z",
+  "updatedAt": "2024-11-05T12:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "673442e3fe1b77313ed2a13d"
+  },
+  "review": "Responsive to inquiries and maintains the property well.",
+  "landlord": "6733c7eee14177bf9370a7a8",
+  "user": "6733c7eee14177bf9370a7a7",
+  "createdAt": "2024-11-06T12:30:00Z",
+  "updatedAt": "2024-11-06T12:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "673442e3fe1b77313ed2a13e"
+  },
+  "review": "Could improve response time for maintenance issues.",
+  "landlord": "6733c7eee14177bf9370a7a8",
+  "user": "6733c7eee14177bf9370a7aa",
+  "createdAt": "2024-11-07T13:00:00Z",
+  "updatedAt": "2024-11-07T13:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "673442e3fe1b77313ed2a13f"
+  },
+  "review": "Very helpful and understanding landlord.",
+  "landlord": "6733c7eee14177bf9370a7a8",
+  "user": "6733c7eee14177bf9370a7a7",
+  "createdAt": "2024-11-08T13:30:00Z",
+  "updatedAt": "2024-11-08T13:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "673442e3fe1b77313ed2a140"
+  },
+  "review": "Highly recommend, the landlord ensures everything is in order.",
+  "landlord": "6733c7eee14177bf9370a7a8",
+  "user": "6733c7eee14177bf9370a7aa",
+  "createdAt": "2024-11-09T14:00:00Z",
+  "updatedAt": "2024-11-09T14:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "673442e3fe1b77313ed2a141"
+  },
+  "review": "Satisfied with the property and landlord's service.",
+  "landlord": "6733c7eee14177bf9370a7a8",
+  "user": "6733c7eee14177bf9370a7a7",
+  "createdAt": "2024-11-10T14:30:00Z",
+  "updatedAt": "2024-11-10T14:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "673442e3fe1b77313ed2a142"
+  },
+  "review": "Overall great experience, would recommend.",
+  "landlord": "6733c7eee14177bf9370a7a8",
+  "user": "6733c7eee14177bf9370a7aa",
+  "createdAt": "2024-11-11T15:00:00Z",
+  "updatedAt": "2024-11-11T15:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "673442e3fe1b77313ed2a143"
+  },
+  "review": "Very professional, ensures tenant comfort.",
+  "landlord": "6733c7eee14177bf9370a7a8",
+  "user": "6733c7eee14177bf9370a7a7",
+  "createdAt": "2024-11-12T15:30:00Z",
+  "updatedAt": "2024-11-12T15:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "673442e3fe1b77313ed2a144"
+  },
+  "review": "Responsive and helpful, makes renting easy.",
+  "landlord": "6733c7eee14177bf9370a7a8",
+  "user": "6733c7eee14177bf9370a7aa",
+  "createdAt": "2024-11-13T16:00:00Z",
+  "updatedAt": "2024-11-13T16:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "673442e3fe1b77313ed2a145"
+  },
+  "review": "Great service and well-maintained property.",
+  "landlord": "6733c7eee14177bf9370a7a8",
+  "user": "6733c7eee14177bf9370a7a7",
+  "createdAt": "2024-11-14T16:30:00Z",
+  "updatedAt": "2024-11-14T16:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "673442e3fe1b77313ed2a146"
+  },
+  "review": "Pleasant experience with this landlord.",
+  "landlord": "6733c7eee14177bf9370a7a8",
+  "user": "6733c7eee14177bf9370a7aa",
+  "createdAt": "2024-11-15T17:00:00Z",
+  "updatedAt": "2024-11-15T17:00:00Z"
+}]

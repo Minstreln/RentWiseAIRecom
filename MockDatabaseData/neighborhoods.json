@@ -1,0 +1,300 @@
+[{
+  "_id": {
+    "$oid": "673446e9fe1b77313ed2a161"
+  },
+  "name": "lekki",
+  "safety_rating": 8,
+  "amenities": [
+    "WiFi",
+    "Air Conditioning",
+    "Gym"
+  ],
+  "crime_rate": 2.5,
+  "walkability_score": 80,
+  "average_rent": 450000
+},
+{
+  "_id": {
+    "$oid": "673446e9fe1b77313ed2a162"
+  },
+  "name": "onitsha",
+  "safety_rating": 7,
+  "amenities": [
+    "Parking",
+    "Garden",
+    "Swimming Pool"
+  ],
+  "crime_rate": 3.1,
+  "walkability_score": 75,
+  "average_rent": 400000
+},
+{
+  "_id": {
+    "$oid": "673446e9fe1b77313ed2a163"
+  },
+  "name": "lagos",
+  "safety_rating": 9,
+  "amenities": [
+    "WiFi",
+    "Security",
+    "Generator"
+  ],
+  "crime_rate": 1.8,
+  "walkability_score": 85,
+  "average_rent": 500000
+},
+{
+  "_id": {
+    "$oid": "673446e9fe1b77313ed2a164"
+  },
+  "name": "abuja",
+  "safety_rating": 8,
+  "amenities": [
+    "WiFi",
+    "24-hour Security",
+    "Gym"
+  ],
+  "crime_rate": 1.9,
+  "walkability_score": 70,
+  "average_rent": 350000
+},
+{
+  "_id": {
+    "$oid": "673446e9fe1b77313ed2a165"
+  },
+  "name": "jos",
+  "safety_rating": 6,
+  "amenities": [
+    "Parking",
+    "Garden",
+    "Fireplace"
+  ],
+  "crime_rate": 4,
+  "walkability_score": 60,
+  "average_rent": 300000
+},
+{
+  "_id": {
+    "$oid": "673446e9fe1b77313ed2a166"
+  },
+  "name": "lagos",
+  "safety_rating": 8,
+  "amenities": [
+    "WiFi",
+    "Air Conditioning",
+    "24-hour Security"
+  ],
+  "crime_rate": 2,
+  "walkability_score": 80,
+  "average_rent": 320000
+},
+{
+  "_id": {
+    "$oid": "673446e9fe1b77313ed2a167"
+  },
+  "name": "enugu",
+  "safety_rating": 8,
+  "amenities": [
+    "Parking",
+    "Gym",
+    "Security"
+  ],
+  "crime_rate": 1.5,
+  "walkability_score": 85,
+  "average_rent": 380000
+},
+{
+  "_id": {
+    "$oid": "673446e9fe1b77313ed2a168"
+  },
+  "name": "uyo",
+  "safety_rating": 7,
+  "amenities": [
+    "Garden",
+    "WiFi",
+    "Generator"
+  ],
+  "crime_rate": 2.2,
+  "walkability_score": 75,
+  "average_rent": 300000
+},
+{
+  "_id": {
+    "$oid": "673446e9fe1b77313ed2a169"
+  },
+  "name": "minna",
+  "safety_rating": 6,
+  "amenities": [
+    "Air Conditioning",
+    "Parking",
+    "Garden"
+  ],
+  "crime_rate": 3,
+  "walkability_score": 65,
+  "average_rent": 250000
+},
+{
+  "_id": {
+    "$oid": "673446e9fe1b77313ed2a16a"
+  },
+  "name": "owerri",
+  "safety_rating": 7,
+  "amenities": [
+    "WiFi",
+    "Gym",
+    "24-hour Security"
+  ],
+  "crime_rate": 2.5,
+  "walkability_score": 80,
+  "average_rent": 200000
+},
+{
+  "_id": {
+    "$oid": "673446e9fe1b77313ed2a16b"
+  },
+  "name": "lagos",
+  "safety_rating": 8,
+  "amenities": [
+    "WiFi",
+    "Generator",
+    "Security"
+  ],
+  "crime_rate": 1.7,
+  "walkability_score": 70,
+  "average_rent": 270000
+},
+{
+  "_id": {
+    "$oid": "673446e9fe1b77313ed2a16c"
+  },
+  "name": "lagos",
+  "safety_rating": 5,
+  "amenities": [
+    "WiFi",
+    "Parking",
+    "Gym"
+  ],
+  "crime_rate": 4.5,
+  "walkability_score": 60,
+  "average_rent": 220000
+},
+{
+  "_id": {
+    "$oid": "673446e9fe1b77313ed2a16d"
+  },
+  "name": "ikeja",
+  "safety_rating": 8,
+  "amenities": [
+    "WiFi",
+    "Parking",
+    "Gym"
+  ],
+  "crime_rate": 2.3,
+  "walkability_score": 80,
+  "average_rent": 400000
+},
+{
+  "_id": {
+    "$oid": "673446e9fe1b77313ed2a16e"
+  },
+  "name": "anambra",
+  "safety_rating": 7,
+  "amenities": [
+    "Parking",
+    "Garden",
+    "Security"
+  ],
+  "crime_rate": 2,
+  "walkability_score": 75,
+  "average_rent": 420000
+},
+{
+  "_id": {
+    "$oid": "673446e9fe1b77313ed2a16f"
+  },
+  "name": "lekki",
+  "safety_rating": 8,
+  "amenities": [
+    "WiFi",
+    "Air Conditioning",
+    "Gym"
+  ],
+  "crime_rate": 2.1,
+  "walkability_score": 85,
+  "average_rent": 490000
+},
+{
+  "_id": {
+    "$oid": "673446e9fe1b77313ed2a170"
+  },
+  "name": "lekki",
+  "safety_rating": 9,
+  "amenities": [
+    "WiFi",
+    "Air Conditioning",
+    "Security"
+  ],
+  "crime_rate": 1.5,
+  "walkability_score": 90,
+  "average_rent": 500000
+},
+{
+  "_id": {
+    "$oid": "673446e9fe1b77313ed2a171"
+  },
+  "name": "abuja",
+  "safety_rating": 8,
+  "amenities": [
+    "Parking",
+    "24-hour Security",
+    "Gym"
+  ],
+  "crime_rate": 1.8,
+  "walkability_score": 78,
+  "average_rent": 350000
+},
+{
+  "_id": {
+    "$oid": "673446e9fe1b77313ed2a172"
+  },
+  "name": "kaduna",
+  "safety_rating": 6,
+  "amenities": [
+    "WiFi",
+    "Security",
+    "Gym"
+  ],
+  "crime_rate": 3,
+  "walkability_score": 65,
+  "average_rent": 230000
+},
+{
+  "_id": {
+    "$oid": "673446e9fe1b77313ed2a173"
+  },
+  "name": "edo",
+  "safety_rating": 7,
+  "amenities": [
+    "WiFi",
+    "Generator",
+    "Security"
+  ],
+  "crime_rate": 3.2,
+  "walkability_score": 70,
+  "average_rent": 300000
+},
+{
+  "_id": {
+    "$oid": "673446e9fe1b77313ed2a174"
+  },
+  "name": "port harcourt",
+  "safety_rating": 7,
+  "amenities": [
+    "WiFi",
+    "Gym",
+    "Parking"
+  ],
+  "crime_rate": 2.7,
+  "walkability_score": 78,
+  "average_rent": 260000
+}]

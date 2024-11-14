@@ -1,0 +1,334 @@
+[{
+  "_id": {
+    "$oid": "6733c7eee14177bf9370a7a7"
+  },
+  "name": "Alice Johnson",
+  "email": "alice.johnson@gmail.com",
+  "household_income": 500000,
+  "role": "Tenant",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T10:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "6733c7eee14177bf9370a7a8"
+  },
+  "name": "Bob Smith",
+  "email": "bob.smith@gmail.com",
+  "household_income": 700000,
+  "role": "Landlord",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T11:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "6733c7eee14177bf9370a7a9"
+  },
+  "name": "Carol Williams",
+  "email": "carol.williams@gmail.com",
+  "household_income": 600000,
+  "role": "Agent",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T12:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "6733c7eee14177bf9370a7aa"
+  },
+  "name": "David Brown",
+  "email": "david.brown@gmail.com",
+  "household_income": 400000,
+  "role": "Tenant",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T13:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "6733c7eee14177bf9370a7ab"
+  },
+  "name": "Emma Davis",
+  "email": "emma.davis@gmail.com",
+  "household_income": 900000,
+  "role": "Landlord",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T14:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a196"
+  },
+  "name": "Charlie Brown",
+  "email": "charlie.brown@gmail.com",
+  "household_income": 550000,
+  "role": "Tenant",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T11:10:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a197"
+  },
+  "name": "Diana Prince",
+  "email": "diana.prince@gmail.com",
+  "household_income": 750000,
+  "role": "Landlord",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T11:15:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a198"
+  },
+  "name": "Evan Wright",
+  "email": "evan.wright@gmail.com",
+  "household_income": 600000,
+  "role": "Tenant",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T11:20:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a199"
+  },
+  "name": "Frank Green",
+  "email": "frank.green@gmail.com",
+  "household_income": 900000,
+  "role": "Landlord",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T11:25:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a19a"
+  },
+  "name": "Grace Kelly",
+  "email": "grace.kelly@gmail.com",
+  "household_income": 500000,
+  "role": "Agent",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T11:30:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a19b"
+  },
+  "name": "Henry Turner",
+  "email": "henry.turner@gmail.com",
+  "household_income": 760000,
+  "role": "Landlord",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T11:35:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a19c"
+  },
+  "name": "Isabella Martin",
+  "email": "isabella.martin@gmail.com",
+  "household_income": 620000,
+  "role": "Agent",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T11:40:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a19d"
+  },
+  "name": "Jack Lee",
+  "email": "jack.lee@gmail.com",
+  "household_income": 790000,
+  "role": "Landlord",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T11:45:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a19e"
+  },
+  "name": "Karen Hall",
+  "email": "karen.hall@gmail.com",
+  "household_income": 540000,
+  "role": "Tenant",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T11:50:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a19f"
+  },
+  "name": "Leo Moore",
+  "email": "leo.moore@gmail.com",
+  "household_income": 660000,
+  "role": "Agent",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T11:55:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a1a0"
+  },
+  "name": "Mary Walker",
+  "email": "mary.walker@gmail.com",
+  "household_income": 880000,
+  "role": "Landlord",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T12:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a1a1"
+  },
+  "name": "Nathan Young",
+  "email": "nathan.young@gmail.com",
+  "household_income": 530000,
+  "role": "Tenant",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T12:05:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a1a2"
+  },
+  "name": "Olivia King",
+  "email": "olivia.king@gmail.com",
+  "household_income": 910000,
+  "role": "Landlord",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T12:10:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a1a3"
+  },
+  "name": "Paul Allen",
+  "email": "paul.allen@gmail.com",
+  "household_income": 520000,
+  "role": "Tenant",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T12:15:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a1a4"
+  },
+  "name": "Quinn Adams",
+  "email": "quinn.adams@gmail.com",
+  "household_income": 730000,
+  "role": "Landlord",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T12:20:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a1a5"
+  },
+  "name": "Rachel Carter",
+  "email": "rachel.carter@gmail.com",
+  "household_income": 660000,
+  "role": "Agent",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T12:25:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a1a6"
+  },
+  "name": "Sam Baker",
+  "email": "sam.baker@gmail.com",
+  "household_income": 920000,
+  "role": "Landlord",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T12:30:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a1a7"
+  },
+  "name": "Tina Diaz",
+  "email": "tina.diaz@gmail.com",
+  "household_income": 480000,
+  "role": "Tenant",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T12:35:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a1a8"
+  },
+  "name": "Uma Patel",
+  "email": "uma.patel@gmail.com",
+  "household_income": 710000,
+  "role": "Landlord",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T12:40:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a1a9"
+  },
+  "name": "Vera Scott",
+  "email": "vera.scott@gmail.com",
+  "household_income": 490000,
+  "role": "Tenant",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T12:45:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a1aa"
+  },
+  "name": "Will Harris",
+  "email": "will.harris@gmail.com",
+  "household_income": 830000,
+  "role": "Agent",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T12:50:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a1ab"
+  },
+  "name": "Xena Wright",
+  "email": "xena.wright@gmail.com",
+  "household_income": 880000,
+  "role": "Landlord",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T12:55:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a1ac"
+  },
+  "name": "Yara Cooper",
+  "email": "yara.cooper@gmail.com",
+  "household_income": 620000,
+  "role": "Agent",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T13:00:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348735fe1b77313ed2a1ad"
+  },
+  "name": "Zach Torres",
+  "email": "zach.torres@gmail.com",
+  "household_income": 770000,
+  "role": "Landlord",
+  "password": "$2a$12$HXqaiXbFyeBwsnyPUsuq4ulBJP8kQJ2Ewb6ZBqo8IC6XrNLC7manG",
+  "createdAt": "2024-11-12T13:05:00.000Z"
+},
+{
+  "_id": {
+    "$oid": "67348a8afe1b77313ed2a1b1"
+  },
+  "landlord_id": "6733c7eee14177bf9370a7ab",
+  "profile_details": {
+    "name": "Alice Johnson",
+    "contact": "+2347012345678",
+    "email": "alice.johnson@gmail.com",
+    "address": "Abuja, Nigeria",
+    "years_of_experience": 7,
+    "properties_managed": 10
+  },
+  "rating": 4.2
+}]

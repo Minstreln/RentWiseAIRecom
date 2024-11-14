@@ -39,7 +39,6 @@ reviewSchema.pre(/^find/, function(next) {
 });
 reviewSchema.pre(/^findOneAnd/, async function(next) {
     this.r = await this.findOne();
-    // console.log(this.r);
     next();
 });
 

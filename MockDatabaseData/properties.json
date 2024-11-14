@@ -1,0 +1,332 @@
+[{
+  "_id": {
+    "$oid": "67343f14fe1b77313ed2a118"
+  },
+  "address": "12 Adeola Odeku Street, Victoria Island, Lagos",
+  "type": "Apartment",
+  "size": 85,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "monthly_rent": 150000,
+  "amenities": [
+    "WiFi",
+    "Air Conditioning",
+    "Gym"
+  ],
+  "location": "lagos",
+  "sustainability_score": 80,
+  "landlord_id": {
+    "$oid": "6733c7eee14177bf9370a7a8"
+  },
+  "availability_status": "Available"
+},
+{
+  "_id": {
+    "$oid": "67343f14fe1b77313ed2a119"
+  },
+  "address": "5 Airport Road, Port Harcourt, Rivers",
+  "type": "House",
+  "size": 120,
+  "bedrooms": 3,
+  "bathrooms": 3,
+  "monthly_rent": 200000,
+  "amenities": [
+    "Parking",
+    "Garden",
+    "Swimming Pool"
+  ],
+  "location": "port harcourt",
+  "sustainability_score": 75,
+  "landlord_id": {
+    "$oid": "6733c7eee14177bf9370a7a8"
+  },
+  "availability_status": "Available"
+},
+{
+  "_id": {
+    "$oid": "67343f14fe1b77313ed2a11a"
+  },
+  "address": "18 Akin Adesola Street, Victoria Island, Lagos",
+  "type": "Apartment",
+  "size": 90,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "monthly_rent": 160000,
+  "amenities": [
+    "WiFi",
+    "Security",
+    "Generator"
+  ],
+  "location": "lagos",
+  "sustainability_score": 82,
+  "landlord_id": {
+    "$oid": "6733c7eee14177bf9370a7a8"
+  },
+  "availability_status": "Rented"
+},
+{
+  "_id": {
+    "$oid": "67343f14fe1b77313ed2a11b"
+  },
+  "address": "25 Alake Crescent, Wuse, Abuja",
+  "type": "Studio",
+  "size": 45,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "monthly_rent": 80000,
+  "amenities": [
+    "WiFi",
+    "24-hour Security",
+    "Gym"
+  ],
+  "location": "abuja",
+  "sustainability_score": 85,
+  "landlord_id": {
+    "$oid": "6733c7eee14177bf9370a7a8"
+  },
+  "availability_status": "Available"
+},
+{
+  "_id": {
+    "$oid": "67343f14fe1b77313ed2a11c"
+  },
+  "address": "3 Tafawa Balewa Way, Jos, Plateau",
+  "type": "House",
+  "size": 140,
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "monthly_rent": 180000,
+  "amenities": [
+    "Parking",
+    "Garden",
+    "Fireplace"
+  ],
+  "location": "jos",
+  "sustainability_score": 78,
+  "landlord_id": {
+    "$oid": "6733c7eee14177bf9370a7a8"
+  },
+  "availability_status": "Under Maintenance"
+},
+{
+  "_id": {
+    "$oid": "67343f14fe1b77313ed2a11d"
+  },
+  "address": "22 Allen Avenue, Ikeja, Lagos",
+  "type": "Apartment",
+  "size": 75,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "monthly_rent": 130000,
+  "amenities": [
+    "WiFi",
+    "Air Conditioning",
+    "24-hour Security"
+  ],
+  "location": "lagos",
+  "sustainability_score": 83,
+  "landlord_id": {
+    "$oid": "6733c7eee14177bf9370a7a8"
+  },
+  "availability_status": "Rented"
+},
+{
+  "_id": {
+    "$oid": "67343f14fe1b77313ed2a11e"
+  },
+  "address": "10 G.R.A Road, Enugu",
+  "type": "Duplex",
+  "size": 200,
+  "bedrooms": 5,
+  "bathrooms": 4,
+  "monthly_rent": 250000,
+  "amenities": [
+    "Parking",
+    "Gym",
+    "Security"
+  ],
+  "location": "enugu",
+  "sustainability_score": 88,
+  "landlord_id": {
+    "$oid": "6733c7eee14177bf9370a7a8"
+  },
+  "availability_status": "Available"
+},
+{
+  "_id": {
+    "$oid": "67343f14fe1b77313ed2a11f"
+  },
+  "address": "14 Ibom Plaza, Uyo, Akwa Ibom",
+  "type": "Bungalow",
+  "size": 100,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "monthly_rent": 150000,
+  "amenities": [
+    "Garden",
+    "WiFi",
+    "Generator"
+  ],
+  "location": "uyo",
+  "sustainability_score": 76,
+  "landlord_id": {
+    "$oid": "6733c7eee14177bf9370a7a8"
+  },
+  "availability_status": "Available"
+},
+{
+  "_id": {
+    "$oid": "67343f14fe1b77313ed2a120"
+  },
+  "address": "7 Niger Street, Minna, Niger",
+  "type": "House",
+  "size": 130,
+  "bedrooms": 4,
+  "bathrooms": 3,
+  "monthly_rent": 170000,
+  "amenities": [
+    "Air Conditioning",
+    "Parking",
+    "Garden"
+  ],
+  "location": "minna",
+  "sustainability_score": 70,
+  "landlord_id": {
+    "$oid": "6733c7eee14177bf9370a7a8"
+  },
+  "availability_status": "Rented"
+},
+{
+  "_id": {
+    "$oid": "67343f14fe1b77313ed2a121"
+  },
+  "address": "15 Igbo-Etche Road, Owerri, Imo",
+  "type": "Apartment",
+  "size": 60,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "monthly_rent": 90000,
+  "amenities": [
+    "WiFi",
+    "Gym",
+    "24-hour Security"
+  ],
+  "location": "owerri",
+  "sustainability_score": 72,
+  "landlord_id": {
+    "$oid": "6733c7eee14177bf9370a7a8"
+  },
+  "availability_status": "Available"
+},
+{
+  "_id": {
+    "$oid": "67343f14fe1b77313ed2a122"
+  },
+  "address": "20 Ajao Road, Ikeja, Lagos",
+  "type": "Studio",
+  "size": 50,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "monthly_rent": 85000,
+  "amenities": [
+    "WiFi",
+    "Generator",
+    "Security"
+  ],
+  "location": "lagos",
+  "sustainability_score": 80,
+  "landlord_id": {
+    "$oid": "6733c7eee14177bf9370a7a8"
+  },
+  "availability_status": "Under Maintenance"
+},
+{
+  "_id": {
+    "$oid": "67343f14fe1b77313ed2a123"
+  },
+  "address": "18 Fatai Atere Way, Mushin, Lagos",
+  "type": "Apartment",
+  "size": 100,
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "monthly_rent": 140000,
+  "amenities": [
+    "WiFi",
+    "Parking",
+    "Gym"
+  ],
+  "location": "lagos",
+  "sustainability_score": 82,
+  "landlord_id": {
+    "$oid": "6733c7eee14177bf9370a7a8"
+  },
+  "availability_status": "Available"
+},
+{
+  "_id": {
+    "$oid": "67343f14fe1b77313ed2a124"
+  },
+  "address": "13 Limca Road, Onitsha, Anambra",
+  "type": "Duplex",
+  "size": 210,
+  "bedrooms": 5,
+  "bathrooms": 4,
+  "monthly_rent": 260000,
+  "amenities": [
+    "Parking",
+    "Garden",
+    "Security"
+  ],
+  "location": "onitsha",
+  "sustainability_score": 86,
+  "landlord_id": {
+    "$oid": "6733c7eee14177bf9370a7a8"
+  },
+  "availability_status": "Available"
+},
+{
+  "_id": {
+    "$oid": "67346ebafe1b77313ed2a178"
+  },
+  "address": "12 Adeola Odeku Street, Victoria Island, Lagos",
+  "type": "Apartment",
+  "size": 85,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "monthly_rent": 100000,
+  "amenities": [
+    "WiFi",
+    "Air Conditioning",
+    "Gym",
+    "Swimming Pool"
+  ],
+  "location": "lekki",
+  "sustainability_score": 80,
+  "landlord_id": {
+    "$oid": "6733c7eee14177bf9370a7a8"
+  },
+  "availability_status": "Available"
+},
+{
+  "_id": {
+    "$oid": "673495d1fe1b77313ed2a1f7"
+  },
+  "address": "12 Adeola Odeku Street, Victoria Island, Lagos",
+  "type": "Apartment",
+  "size": 85,
+  "bedrooms": 2,
+  "bathrooms": 2,
+  "monthly_rent": 100000,
+  "amenities": [
+    "WiFi",
+    "Air Conditioning",
+    "Gym",
+    "Swimming Pool"
+  ],
+  "location": "lekki",
+  "sustainability_score": 75,
+  "landlord_id": {
+    "$oid": "67348735fe1b77313ed2a1a2"
+  },
+  "availability_status": "Available"
+}]

@@ -30,7 +30,7 @@ app.use(express.static(`${__dirname}/public}`));
 app.use(express.json());
 
 const limiter = rateLimit({
-  max: 30,
+  max: 10,
   windowMs: 60 * 60 * 1000,
   message: 'Too many requests from this IP, please try again in an hour!',
 });

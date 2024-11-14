@@ -4,17 +4,19 @@ const AppError = require('../../utils/appError');
 const User = require('../../models/users/userModel');
 const catchAsync = require('../../utils/catchAsync');
 
+// jwt authentication logic
 const signToken = (id) =>
-  jwt.sign({ id }, process.env.JWT_SECRET, {
-    expiresIn: process.env.JWT_EXPIRES_IN,
+  jwt.sign({ id }, process.env.JWT_SECRET || "jwtaccesskey", {
+    expiresIn: process.env.JWT_EXPIRES_IN || "90d",
   });
 
 const createSendToken = (user, statusCode, res, jsonResponse) => {
   const token = signToken(user._id);
 
+
   const cookieOptions = {
     expires: new Date(
-      Date.now() + parseInt(process.env.JWT_COOKIE_EXPIRES_IN, 10) * 24 * 60 * 60 * 1000
+      Date.now() + parseInt(process.env.JWT_COOKIE_EXPIRES_IN || 90, 10) * 24 * 60 * 60 * 1000
     ),    
     httpOnly: true,
   };
@@ -72,7 +74,7 @@ exports.protect = catchAsync(async (req, res, next) => {
     return next(new AppError('Please log in to get access', 401));
   }
 
-  const decoded = await promisify(jwt.verify)(token, process.env.JWT_SECRET);
+  const decoded = await promisify(jwt.verify)(token, process.env.JWT_SECRET || "jwtaccesskey");
 
   let currentUser;
 

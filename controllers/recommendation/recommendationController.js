@@ -1,10 +1,11 @@
 const catchAsync = require('../../utils/catchAsync');
+const AppError = require('../../utils/appError');
 const ss = require('simple-statistics');
 const { body, validationResult } = require('express-validator');
 const Property = require('../../models/properties/propertyModel');
 const Recommendation = require('../../models/recommendations/recommendationModel');
 
-// Scoring weights
+// weights for recommendation scores
 const weights = {
     affordability: 0.3,
     location: 0.2,
@@ -13,20 +14,30 @@ const weights = {
     safety: 0.2
 };
 
-// Validation rules
+// Validation rules for user inputs
 const validateRequest = async (req) => {
     await Promise.all([
         body('household_income')
             .isFloat({ gt: 0 }).withMessage('Household income must be a positive number.')
             .run(req),
+
         body('preferred_locations')
-            .isArray({ min: 1 }).withMessage('Preferred locations must be a non-empty array.')
-            .custom(locations => locations.every(loc => typeof loc === 'string'))
-            .withMessage('Each location must be a string.')
-            .customSanitizer(locations => 
-                locations.map(loc => loc.trim().toLowerCase().replace(/</g, "&lt;").replace(/>/g, "&gt;"))
-            )
+            .isArray().withMessage('Preferred locations must be an array.')
+            .bail()
+            .custom(locations => locations.length > 0).withMessage('Preferred locations must be a non-empty array.')
+            .bail()
+            .custom(locations => {
+                if (!locations.every(loc => typeof loc === 'string')) {
+                    throw new Error('Each location must be a string.');
+                }
+                return true;
+            })
+            .bail()
+            .customSanitizer(locations => {
+                return locations.map(loc => loc.trim().toLowerCase().replace(/</g, "&lt;").replace(/>/g, "&gt;"));
+            })
             .run(req),
+               
         body('property_type')
             .optional()
             .isArray().withMessage('Property type must be an array.')
@@ -44,13 +55,17 @@ const validateRequest = async (req) => {
             .run(req)
     ]);
 };
+exports.validateRequest = validateRequest;
 
 
-
-// calculate 1/3 of the household_income or take max_rent
+// calculates 1/3 of the household_income or take max_rent
 const calculateMaxAffordableRent = (household_income, max_rent) => {
+    if (household_income < 0 || max_rent < 0) {
+      throw new AppError('household_income and max_rent must be non-negative');
+    }
     return max_rent ? Math.min(max_rent, household_income / 3) : household_income / 3;
-};
+};  
+exports.calculateMaxAffordableRent = calculateMaxAffordableRent;
 
 
 
@@ -111,7 +126,7 @@ const getRecommendations = async (maxAffordableRent, preferred_locations, proper
         }
     ]);
 };
-
+exports.getRecommendations = getRecommendations;
 
 
 // calculate recommendation score
@@ -127,7 +142,7 @@ const calculateScore = (property, maxAffordableRent, preferred_locations) => {
     const weightedScores = scores.map((score, index) => score * Object.values(weights)[index]);
     return ss.mean(weightedScores);
 };
-
+exports.calculateScore = calculateScore;
 
 
 // Get recommendations and save to database
